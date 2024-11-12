@@ -25,7 +25,8 @@ git clone https://github.com/JOMACS-IT/web-app.git
 
 
 step 5:
-mvn clean
+mvn clean![Screenshot (23)](https://github.com/user-attachments/assets/657cf971-9724-48fd-9ef5-6acc1e79d921)
+
 mvn package
 
 
